@@ -1,3 +1,2 @@
-# hello-world
-short description
-test test test
+# Acámica
+Resumen de proyectos del curso de Desarrollo Web Full Stack
